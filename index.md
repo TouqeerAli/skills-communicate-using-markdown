@@ -9,3 +9,6 @@ public void add(int a, int b){
     return a+b;
 }
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
